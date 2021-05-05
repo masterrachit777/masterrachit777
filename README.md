@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterrachit777" alt="masterrachit777" /> </p>
 
-- 🔭 I’m currently working on Project DevQuest
+- 🔭 I’m currently working on brushing up my skills.
 
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/masterrachit777?tab=repositories)
 
-- 💬 Ask me about **MERN stack, C++, Python**
+- 💬 Ask me about **MongoDB, Node.js, FrontEnd Web Dev, C++, Python**
 
 - ⚡ Fun fact about me, i am a **ZAYN Fan :))**
 
@@ -19,7 +19,7 @@
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="masterrachit777" height="35" width="35"  /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="masterrachit777" height="35" width="35" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" alt="masterrachit777" height="35" width="35" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="masterrachit777" height="35" width="35" /></a>
+<!-- <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="masterrachit777" height="35" width="35" /></a> -->
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="masterrachit777" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="masterrachit777" height="35" width="35" /></a>
 </p>
