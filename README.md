@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There <img src="https://github.com/masterrachit777/masterrachit777/blob/master/Hi.gif" width="29px">, I'm Rachit Mittal</h1>
+<h1 align="center"> Hi There <img src="https://github.com/masterrachit777/masterrachit777/raw/main/Hi.gif" width="29px">, I'm Rachit Mittal</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterrachit777" alt="masterrachit777" /> </p>
 
