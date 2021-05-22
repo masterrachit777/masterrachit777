@@ -19,7 +19,7 @@
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="masterrachit777" height="35" width="35"  /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="masterrachit777" height="35" width="35" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" alt="masterrachit777" height="35" width="35" /></a>
-<!-- <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="masterrachit777" height="35" width="35" /></a> -->
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="masterrachit777" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="masterrachit777" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="masterrachit777" height="35" width="35" /></a>
 </p>
