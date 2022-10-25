@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/masterrachit777?tab=repositories)
 
-- 💬 Ask me about **MongoDB, Node.js, FrontEnd Web Dev, C++, Python**
+- 💬 Ask me about **React.js, Node.js, FrontEnd Web Dev, C++, Python**
 
 - ⚡ Fun fact about me, i am a **ZAYN Fan :))**
 
